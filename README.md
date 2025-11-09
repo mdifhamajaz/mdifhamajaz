@@ -1,27 +1,49 @@
-<div align="center">
-  <h1>Welcome to Dev Ifham's GitHub Profile!</h1>
-  <p>👋 Hi there! I'm Dev Ifham, a passionate student and aspiring software engineer with a love for web development and content creation. Welcome to my GitHub profile, where you'll find a mix of personal projects, contributions to open-source, and maybe a few surprises along the way!</p>
-</div>
+# 👋 Hey, I'm MD Ifham Ajaz
 
-## About Me
+🎓 **B.Tech CSE Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate Learner**
 
-- 😄 Pronouns: He/Him
-- 💼 Currently working as: Student
-- 🎓 Graduated from: Currently in Class 12th, specializing in PCM (Physics, Chemistry, Mathematics)
-- 💡 Interests: Web development, content creation, video editing, thumbnail designing, physics, software engineering
+---
 
-## What You'll Find Here
+## 🧠 About Me
 
-- **Personal Projects**: I enjoy tinkering with various technologies, particularly in web development. You'll find some of my personal projects here, ranging from frontend experiments to backend applications.
-- **Open Source Contributions**: I believe in the power of open-source software and enjoy contributing to projects that align with my interests and values. Look out for my contributions to projects related to web development and education.
-- **Learning Journey**: GitHub is not only a platform for sharing code but also a space for learning and growth. You might stumble upon repositories where I'm experimenting with new languages, frameworks, or concepts in both web development and software engineering.
-- **Random Musings**: Sometimes, inspiration strikes at odd times, and you might find repositories dedicated to random thoughts, reflections on learning, or anything else that catches my fancy.
+- 🌱 Currently learning **Web Development** and **Problem Solving**  
+- 💡 Exploring different areas of technology to build a solid foundation  
+- ⚙️ Working on personal projects to sharpen my coding skills  
+- 🧩 Interested in **AI, Web, and Creative Tech Products**  
+- ☕ I believe great code comes from curiosity, focus, and caffeine  
 
-## Get in Touch
+---
 
-- 📫 Reach me via email at: devifham@gmail.com
-- 🔗 Connect with me on LinkedIn: [Your LinkedIn Profile URL]
+## 🛠️ Tech Stack
 
-## Let's Collaborate
+**Languages:**  
+HTML • CSS • JavaScript (learning)
 
-I'm always open to collaboration, whether it's on personal projects, open-source initiatives, or just bouncing ideas off each other. If you find something interesting here or have a project you think I might be interested in, don't hesitate to reach out!
+**Tools & Platforms:**  
+VS Code • Git • GitHub • Chrome DevTools
+
+---
+
+## 💻 Projects
+
+### 🎬 [YouKube — A UI Clone](https://github.com/mdifhamajaz/youkube-a-ui-clone)
+A YouTube-inspired UI built with HTML, CSS, and JavaScript — my personal project to practice web design and layout building.
+
+---
+
+## 📈 GitHub Stats
+
+![Ifham's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdifhamajaz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdifhamajaz&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ifham-ajaz/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mdifhamajaz)
+
+---
+
+> “Keep building. Keep learning. Small projects lead to big skills.” ✨

@@ -1,33 +1,47 @@
 # 👋 Hey, I'm MD Ifham Ajaz
 
-🎓 **B.Tech CSE Student** | 💻 **Aspiring Software Engineer** | 🚀 **Passionate Learner**
+🎓 **B.Tech Computer Science Student**  
+💻 **Aspiring Software Engineer**  
+🚀 Building skills one concept at a time
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **Web Development** and **Problem Solving**  
-- 💡 Exploring different areas of technology to build a solid foundation  
-- ⚙️ Working on personal projects to sharpen my coding skills  
-- 🧩 Interested in **AI, Web, and Creative Tech Products**  
-- ☕ I believe great code comes from curiosity, focus, and caffeine  
+- 🌱 Currently mastering **C Programming (Deep Fundamentals)**
+- ⚙️ Learning programming by building real projects step-by-step
+- 🧩 Interested in **Software Engineering, AI, and Product Development**
+- 📈 Focused on strong problem-solving and core computer science concepts
+- 💡 I believe understanding fundamentals beats rushing frameworks
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-HTML • CSS • JavaScript (learning)
+### Languages
+C (Learning Deeply) • HTML • CSS • JavaScript
 
-**Tools & Platforms:**  
-VS Code • Git • GitHub • Chrome DevTools
+### Tools & Platforms
+VS Code • Git • GitHub • Linux Basics • Chrome DevTools
 
 ---
 
 ## 💻 Projects
 
-### 🎬 [YouKube — A UI Clone](https://github.com/mdifhamajaz/youkube-a-ui-clone)
-A YouTube-inspired UI built with HTML, CSS, and JavaScript — my personal project to practice web design and layout building.
+### 📚 Student Management System (C Language)
+Version-based project built while learning C programming.
+
+**Current Version:** V1  
+✔ Menu-driven system  
+✔ Add / Search / Update / Delete students  
+✔ Arrays + Functions based implementation  
+
+👉 More upgrades coming with Structures and File Handling.
+
+---
+
+### 🎬 YouKube — UI Clone
+A YouTube-inspired interface built using HTML, CSS, and JavaScript to practice layout design and frontend fundamentals.
 
 ---
 
@@ -35,15 +49,27 @@ A YouTube-inspired UI built with HTML, CSS, and JavaScript — my personal proje
 
 ![Ifham's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdifhamajaz&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdifhamajaz&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdifhamajaz&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 Current Learning Roadmap
+
+- ✅ C Basics
+- ✅ Functions & Pointers
+- ✅ Arrays
+- 🔄 Strings (In Progress)
+- ⏳ Structures
+- ⏳ File Handling
+- ⏳ Data Structures & Algorithms
+
+---
+
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ifham-ajaz/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mdifhamajaz)
 
 ---
 
-> “Keep building. Keep learning. Small projects lead to big skills.” ✨
+> **Learning in public. Building consistently. Improving every version.** 🚀

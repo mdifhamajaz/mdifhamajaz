@@ -2,46 +2,54 @@
 
 🎓 **B.Tech Computer Science Student**  
 💻 **Aspiring Software Engineer**  
-🚀 Building skills one concept at a time
+🚀 Building real projects while mastering fundamentals  
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Currently mastering **C Programming (Deep Fundamentals)**
-- ⚙️ Learning programming by building real projects step-by-step
-- 🧩 Interested in **Software Engineering, AI, and Product Development**
-- 📈 Focused on strong problem-solving and core computer science concepts
-- 💡 I believe understanding fundamentals beats rushing frameworks
+- 🌱 Currently focused on **C + Data Structures & Algorithms**
+- ⚙️ I learn by **building real systems and evolving them version-by-version**
+- 🧩 Interested in **Software Engineering, AI, and Product Thinking**
+- 📈 Strong focus on **problem-solving and core CS fundamentals**
+- 💡 I believe **depth > speed** when learning tech  
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-C (Learning Deeply) • HTML • CSS • JavaScript
+### Languages  
+`C` • `HTML` • `CSS` • `JavaScript`
 
-### Tools & Platforms
-VS Code • Git • GitHub • Linux Basics • Chrome DevTools
+### Tools & Platforms  
+`VS Code` • `Git` • `GitHub` • `Linux Basics` • `Chrome DevTools`
 
 ---
 
-## 💻 Projects
+## 💻 Featured Projects
 
 ### 📚 Student Management System (C Language)
-Version-based project built while learning C programming.
 
-**Current Version:** V1  
-✔ Menu-driven system  
-✔ Add / Search / Update / Delete students  
-✔ Arrays + Functions based implementation  
+A **version-based system** built while learning C — evolving as I learn new concepts.
 
-👉 More upgrades coming with Structures and File Handling.
+**Current Version: V2.0**
+
+✔ Struct-based student records (Name, Roll, Marks)  
+✔ Full CRUD operations (Add, Search, Update, Delete)  
+✔ Search by Name & Roll Number  
+✔ Unique roll number validation  
+✔ Persistent storage using file handling (`.dat`)  
+✔ Auto-save after every operation  
+
+🔗 Repository: https://github.com/mdifhamajaz/student-management-system-c  
 
 ---
 
 ### 🎬 YouKube — UI Clone
-A YouTube-inspired interface built using HTML, CSS, and JavaScript to practice layout design and frontend fundamentals.
+
+A YouTube-inspired interface built using HTML, CSS, and JavaScript to practice frontend fundamentals and UI design.
+
+🔗 Repository: https://github.com/mdifhamajaz/youkube-a-ui-clone
 
 ---
 
@@ -55,21 +63,37 @@ A YouTube-inspired interface built using HTML, CSS, and JavaScript to practice l
 
 ## 🎯 Current Learning Roadmap
 
-- ✅ C Basics
-- ✅ Functions & Pointers
-- ✅ Arrays
-- 🔄 Strings (In Progress)
-- ⏳ Structures
-- ⏳ File Handling
-- ⏳ Data Structures & Algorithms
+- ✅ C Fundamentals  
+- ✅ Arrays, Functions, Pointers  
+- ✅ Structures  
+- ✅ File Handling  
+- 🔄 Data Structures & Algorithms (In Progress)  
+- ⏳ Object-Oriented Programming (Java - Upcoming)   
+
+---
+
+## 🔥 What I’m Working On Next
+
+- Enhancing Student Management System:
+  - Sorting & ranking system  
+  - Dynamic memory allocation  
+  - Improved CLI experience  
+- Starting **DSA problem solving in C**
+- Building stronger problem-solving mindset  
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ifham-ajaz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-ifham-ajaz/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/mdifhamajaz)
 
 ---
 
-> **Learning in public. Building consistently. Improving every version.** 🚀
+## 🧩 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=mdifhamajaz&color=blue)
+
+---
+
+> **Learning in public. Building systems. Thinking like an engineer.** 🚀
